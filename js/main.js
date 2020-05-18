@@ -75,6 +75,26 @@ function funcaoChange(elemento){
     alert(elemento.value)
 }
 
+function frutas(elemento){
+   var fruta = ""
+    switch (elemento.value){
+    case "1":
+        fruta = "Laranja";
+        break;
+    case "2":
+        fruta = "Maçã";
+        break;
+    case "3":
+        fruta= "Uva";
+        break
+    }
+   
+    if(fruta != ""){
+     alert(fruta)
+    }
+
+}
+
 
 
 
