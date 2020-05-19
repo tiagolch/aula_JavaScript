@@ -1,8 +1,7 @@
-# aula_JavaScript
-Introdução ao JavaScript
+# Testes com JavaScript
 
 
-Adicionado nova função ao botão de select:
+Adicionado nova função ao elemento select:
 
 HTML:
   
